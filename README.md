@@ -1,23 +1,75 @@
+
 <h1 align="center">Hi 👋, I'm Muhammad Taha</h1>
-<h3 align="center">A Data Science enthusiast from Pakistan</h3>
+<h3 align="center">A passionate Data Science & AI enthusiast from Pakistan</h3>
 
-- 🔭 I’m currently working on [Survival Prediction System](https://github.com/MuhammadTaha1038/CodeAlpha_Survival-Prediction-App)
-
-- 🌱 I’m currently learning **Data Science, Machine learning**
-
-- 📫 How to reach me **contact.taha2005@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/muhammad taha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhammad taha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad taha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad taha" height="30" width="40" /></a>
-<a href="https://kaggle.com/muhammadtaha1038" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muhammadtaha1038" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadtaha1038&show_icons=true&locale=en&layout=compact" alt="muhammadtaha1038" /></p>
+ I'm currently pursuing **Software Engineering** at University of Engineering and Technology Taxila.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadtaha1038&" alt="muhammadtaha1038" /></p>
+ I’m deeply passionate about:
+- Data Science 
+- Machine Learning 
+- Artificial Intelligence 
+- Building real-world, impactful applications 
+
+ **Reach me at**: contact.taha2005@gmail.com
+
+---
+
+##  Tech Stack
+
+```python
+Languages:   Python, SQL, HTML/CSS, JavaScript
+Tools:       Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly
+Frameworks:  Streamlit
+Others:      Git, VS Code, Jupyter Notebook
+````
+
+---
+
+##  Featured Projects
+
+### 🔹 [Customer Segmentation Dashboard](https://github.com/MuhammadTaha1038/Customer-Segmentation-Dashboard)
+
+> An end-to-end project using KMeans clustering to group customers, complete with a clean Streamlit app that predicts and suggests marketing strategies.
+
+### 🔹 [Titanic Survival Prediction App](https://github.com/MuhammadTaha1038/Titanic-Survival-Prediction)
+
+> A machine learning-powered web app built using Streamlit that predicts survival chances on the Titanic based on input features.
+
+---
+
+##  GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadTaha1038&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadTaha1038&theme=default" width="48%" />
+</p>
+
+---
+
+##  Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/muhammad-taha-b88807248/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="90" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/MuhammadTaha1038" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="90"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.kaggle.com/muhammadtaha1038" target="_blank">
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="Kaggle" width="90" />
+  </a>
+</p>
+
+
+
+### *Thanks for visiting my profile! Let's build something impactful together.*
+
 
